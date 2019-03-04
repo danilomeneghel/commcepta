@@ -14,6 +14,7 @@ Consiste em um simples carregamento de dados Json.
 ## Screenshots
 
 ![Screenshots](screenshots/screenshot01.png)<br><br>
+![Screenshots](screenshots/screenshot02.png)<br><br>
 
 
 Developed by<br>
