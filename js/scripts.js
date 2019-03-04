@@ -31,6 +31,9 @@ $(document).ready(function () {
     });
 
     $(".box-content").on("click", ".col-content", function () {
+        $(".box-content").find(".col-content").removeClass("box-selected");
+        $(this).addClass("box-selected");
+        
         $(".box-header").find(".foto").empty();
         $(this).find(".foto img").clone().appendTo(".box-header .foto");
 
