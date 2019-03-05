@@ -6,7 +6,7 @@ Consiste em um simples carregamento de dados Json.
 ## Tecnologias
 
 - HTML
-- CSS
+- Sass
 - JS
 - Jquery
 - Json
